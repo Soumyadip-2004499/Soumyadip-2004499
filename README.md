@@ -33,7 +33,7 @@
     </td>
     <td width="50%">
       <b>💼 ROLE</b><br>
-      Computer Science Student
+      Cloud And DevOps Engineer
     </td>
   </tr>
   <tr>
