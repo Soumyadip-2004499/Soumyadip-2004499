@@ -127,65 +127,6 @@
 
 <div align="center">
 
-## ▌ FEATURED PROJECTS
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Anatomiq</h3>
-      <p>Interactive 3D Human Anatomy Explorer</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark" height="25" />
-      <br><br>
-      <sub><b>Arch:</b> Next.js + Three.js Integration</sub>
-      <br><br>
-      <a href="https://github.com/Soumyadip-2004499/anatomiq">
-        <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>AutoMedIQ</h3>
-      <p>AI disease prediction platform</p>
-      <img src="https://skillicons.dev/icons?i=py,scikitlearn&theme=dark" height="25" />
-      <br><br>
-      <sub><b>Arch:</b> ML Pipelines + Streamlit Dashboard</sub>
-      <br><br>
-      <a href="https://github.com/Soumyadip-2004499/automedqi">
-        <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Climate-Aware Crop Yield Prediction</h3>
-      <p>Machine learning prediction framework</p>
-      <img src="https://skillicons.dev/icons?i=py,scikitlearn&theme=dark" height="25" />
-      <br><br>
-      <sub><b>Arch:</b> Random Forest + Geospatial Data</sub>
-      <br><br>
-      <a href="https://github.com/Soumyadip-2004499/crop-yield">
-        <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>Real Estate Platform</h3>
-      <p>Full stack property listing application</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,aws&theme=dark" height="25" />
-      <br><br>
-      <sub><b>Arch:</b> Serverless REST API + React SPA</sub>
-      <br><br>
-      <a href="https://github.com/Soumyadip-2004499/real-estate">
-        <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## ▌ PHILOSOPHY
 
 > *"Great engineering is about solving real problems with simple, reliable and scalable solutions."*
