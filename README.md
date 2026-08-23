@@ -6,7 +6,7 @@
 
 # S O U M Y A D I P &nbsp; C H A T T O P A D H Y A Y
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=20&pause=1000&color=787878&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+Developer;Cloud+%26+DevOps+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=20&pause=1000&color=787878&center=true&vCenter=true&width=500&lines=AI+Developer;Cloud+%26+DevOps+Engineer" alt="Typing SVG" /></a>
 
 <br>
 
@@ -33,7 +33,7 @@
     </td>
     <td width="50%">
       <b>💼 ROLE</b><br>
-      Cloud And DevOps Engineer
+      AI Developer • Cloud & DevOps Engineer
     </td>
   </tr>
   <tr>
