@@ -11,8 +11,8 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/your-github-username?label=FOLLOWERS&color=000000&style=for-the-badge&logo=github" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=Soumyadip-2004499&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Soumyadip-2004499?label=FOLLOWERS&color=000000&style=for-the-badge&logo=github" alt="Followers">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -138,7 +138,7 @@
       <br><br>
       <sub><b>Arch:</b> Next.js + Three.js Integration</sub>
       <br><br>
-      <a href="https://github.com/your-github-username/anatomiq">
+      <a href="https://github.com/Soumyadip-2004499/anatomiq">
         <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -149,7 +149,7 @@
       <br><br>
       <sub><b>Arch:</b> ML Pipelines + Streamlit Dashboard</sub>
       <br><br>
-      <a href="https://github.com/your-github-username/automedqi">
+      <a href="https://github.com/Soumyadip-2004499/automedqi">
         <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -162,7 +162,7 @@
       <br><br>
       <sub><b>Arch:</b> Random Forest + Geospatial Data</sub>
       <br><br>
-      <a href="https://github.com/your-github-username/crop-yield">
+      <a href="https://github.com/Soumyadip-2004499/crop-yield">
         <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -173,7 +173,7 @@
       <br><br>
       <sub><b>Arch:</b> Serverless REST API + React SPA</sub>
       <br><br>
-      <a href="https://github.com/your-github-username/real-estate">
+      <a href="https://github.com/Soumyadip-2004499/real-estate">
         <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -200,16 +200,16 @@ Building technology that is inherently useful, endlessly scalable, and deeply hu
 
 ## ▌ CONNECT
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/Soumyadip-2004499">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin-username">
+<a href="https://www.linkedin.com/in/soumyadip-chattopadhyay-338343330/">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://your-website.com">
+<a href="https://soumyadip-chattopadhyay.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:soumyadipchattopadyay1268@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
