@@ -7,7 +7,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Soumyadip-2004499&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/Soumyadip-2004499?label=Followers&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Projects-50+-black?style=for-the-badge"/>
 </p>
 
 ### *"Building intelligent, scalable & impactful software."*
