@@ -1,167 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=50&section=header" width="100%">
+# Soumyadip Chattopadhyay
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29wZ251Z3d3MjlkNGJwOXlhaDNqNmN0NmF3dW5wN3NydXJtM2pzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="60">
+### AI Developer • Cloud & DevOps Engineer • Computer Science Student
 
-# S O U M Y A D I P &nbsp; C H A T T O P A D H Y A Y
+Building intelligent, scalable and user-focused applications.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=20&pause=1000&color=787878&center=true&vCenter=true&width=500&lines=AI+Developer;Cloud+%26+DevOps+Engineer" alt="Typing SVG" /></a>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soumyadip-2004499&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/Soumyadip-2004499?label=FOLLOWERS&color=000000&style=for-the-badge&logo=github" alt="Followers">
+<p>
+  <a href="https://github.com/Soumyadip-2004499">
+    <img src="https://img.shields.io/github/followers/Soumyadip-2004499?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Soumyadip-2004499?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Open-black?style=for-the-badge" />
+  </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
 
-<br>
+---
 
-<div align="center">
-  
-## ▌ DIGITAL IDENTITY
+## About Me
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>👤 NAME</b><br>
-      Soumyadip Chattopadhyay
-    </td>
-    <td width="50%">
-      <b>💼 ROLE</b><br>
-      AI Developer • Cloud & DevOps Engineer
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🎯 FOCUS</b><br>
-      AI • Cloud • DevOps
-    </td>
-    <td>
-      <b>🎓 EDUCATION</b><br>
-      Computer Science
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🔬 INTERESTS</b><br>
-      Generative AI, Kubernetes, Computer Vision
-    </td>
-    <td>
-      <b>🟢 STATUS</b><br>
-      Building Intelligent Systems
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <b>🚀 CURRENT MISSION</b><br>
-      Designing practical software, scalable infrastructure, and polished digital experiences.
-    </td>
-  </tr>
-</table>
+I'm a Computer Science student passionate about **Artificial Intelligence, Cloud Computing, DevOps, and Full Stack Development**. I enjoy designing practical software that combines intelligent systems with modern user experiences.
 
-</div>
+- AI & Machine Learning
+- Cloud Computing (AWS)
+- Docker & DevOps
+- Full Stack Web Development
+- ServiceNow Development
 
-<br>
+---
 
-<div align="center">
+## Tech Stack
 
-## ▌ CURRENT INITIATIVES
+#### Languages
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📚 LEARNING</h3>
-      <br>Kubernetes
-      <br>System Design
-      <br>LLM Engineering
-    </td>
-    <td align="center" width="33%">
-      <h3>🏗️ BUILDING</h3>
-      <br>AI Applications
-      <br>Cloud Projects
-      <br>Developer Tools
-    </td>
-    <td align="center" width="33%">
-      <h3>🎯 LOOKING FOR</h3>
-      <br>Internships
-      <br>AI Roles
-      <br>Cloud Opportunities
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
+</p>
 
-</div>
+#### Web & Frameworks
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,streamlit" />
+</p>
+
+#### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github" />
+</p>
+
+#### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vscode,postman" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **Anatomiq** | Interactive 3D Human Anatomy Explorer built with Next.js & Three.js |
+| **AutoMedIQ** | AI-powered disease prediction system using Machine Learning |
+| **Crop Yield Prediction** | Climate-aware ML framework for soybean & corn yield forecasting |
+| **Real Estate Platform** | Modern property listing platform using Next.js, AWS & MongoDB |
+| **Vehicle Number Plate Detection** | Automatic number plate recognition with image processing |
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-## ▌ TECH ARSENAL
-
-<b>LANGUAGES</b><br>
-<img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,sql&theme=dark" /><br><br>
-
-<b>FRONTEND</b><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" /><br><br>
-
-<b>BACKEND</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" /><br><br>
-
-<b>AI / ML</b><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv&theme=dark" /><br><br>
-
-<b>CLOUD & DEVOPS</b><br>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform&theme=dark" /><br><br>
-
-<b>TOOLS</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" /><br><br>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soumyadip-2004499&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip-2004499&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
-<br>
+---
+
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
+- ServiceNow Certified System Administrator (CSA)
+- ServiceNow Certified Application Developer (CAD)
+- SAP Certified Generative AI Developer
+
+---
+
+## Engineering Philosophy
+
+> *"Great engineering is about solving real problems with simple, reliable, and scalable solutions."*
+
+---
 
 <div align="center">
 
-## ▌ PHILOSOPHY
+### Let's Connect
 
-> *"Great engineering is about solving real problems with simple, reliable and scalable solutions."*
-
-Building technology that is inherently useful, endlessly scalable, and deeply human-centered.<br>Every system I design is driven by a passion to combine robust backend infrastructure with an invisible, polished user experience.
-
-</div>
-
-<br>
-
-<div align="center">
-
-## ▌ CONNECT
-
-<a href="https://github.com/Soumyadip-2004499">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/soumyadip-chattopadhyay-338343330/">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://soumyadip-chattopadhyay.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:soumyadipchattopadyay1268@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://anatomiq-sc.vercel.app/en">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Footer divider">
-<br>
-<sub><b>Designed & Built by Soumyadip Chattopadhyay</b></sub>
+**Thanks for visiting my profile.**
 
 </div>
