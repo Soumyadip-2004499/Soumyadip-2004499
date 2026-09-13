@@ -7,6 +7,10 @@
 Building intelligent, scalable and user-focused applications.
 
 <p>
+  <img src="https://komarev.com/ghpvc/?username=Soumyadip-2004499&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p>
   <a href="https://github.com/Soumyadip-2004499">
     <img src="https://img.shields.io/github/followers/Soumyadip-2004499?label=Followers&style=for-the-badge" />
   </a>
@@ -33,26 +37,22 @@ I'm a Computer Science student passionate about **Artificial Intelligence, Cloud
 
 ## Tech Stack
 
-#### Languages
-
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
 </p>
 
-#### Web & Frameworks
-
+### Web & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,streamlit" />
 </p>
 
-#### Cloud & DevOps
-
+### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,git,github" />
 </p>
 
-#### Database & Tools
-
+### Database & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,vscode,postman" />
 </p>
